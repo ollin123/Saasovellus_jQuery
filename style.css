@@ -1,0 +1,31 @@
+body {
+  background: #1a1a1a;
+  color: white;
+  font-family: monospace;
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  overflow: hidden;
+}
+
+#bgVideo {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+  z-index: -1;
+}
+
+button:hover {
+  background: greenyellow !important;
+  color: black !important;
+  border-color: greenyellow !important;
+}
+
+#weatherInfo {
+  background-color: rgba(0, 0, 0, 0.3) !important;
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
