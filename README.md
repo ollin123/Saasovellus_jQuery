@@ -33,7 +33,7 @@ Sääsovellus on sovellus, josta saa mielestäni tärkeimmät säätiedot nopeas
 Ei ole
 
 ## Kuvakaappaukset
-[Sääsovellus jQueryllä]()
+[Sääsovellus jQueryllä](saasovellus.png)
 
 ## Teknologiat
 Kuvaa, mitä teknologioita käytettiin ja mikä oli niiden rooli projektissasi.  
